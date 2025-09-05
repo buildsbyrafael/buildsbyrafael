@@ -1,7 +1,5 @@
 # Rafael Linhares
 
-## Desenvolvedor Backend e Frontend
-
 Comecei minha jornada em 2017, como técnico em Informática, com uma base sólida em desenvolvimento web e backend — utilizando HTML, CSS, JavaScript, Java e MySQL.
 
 Em 2022, iniciei minha graduação em Sistemas de Informação, o que ampliou minha visão e me levou a explorar novas tecnologias. Desde então, venho adquirindo experiência com C, C++, C#, Python, FastAPI, React e PostgreSQL.
